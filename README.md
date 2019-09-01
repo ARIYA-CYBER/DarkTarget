@@ -4,9 +4,9 @@ $ pkg update
 
 $ pkg upgrade
 
-$ pkg install bash
-
 $ pkg install git
+
+$ pkg install bash
 
 $ git clone https://github.com/ARIYA-CYBER/DarkTarget
 
