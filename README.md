@@ -1,6 +1,8 @@
 # Dark FB Target
 
-$ pkg update && pkg upgrade
+$ pkg update
+
+$ pkg upgrade
 
 $ pkg install bash
 
